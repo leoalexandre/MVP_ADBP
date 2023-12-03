@@ -248,6 +248,10 @@
 198,3804639;1,983804639;0027_3D_CAPIANGA_RM17;Field Data;Publico;0027_3D_CAPIANGA;Exclusivo;Sismica 3D;2007-06-20;2007-10-23;2012-10-23;(multiplos);;;Petrobras;Petrobras
 ;;0027_3D_CAPIANGA_RM14;Field Data;Publico;0027_3D_CAPIANGA;Exclusivo;Sismica 3D;2007-06-20;2007-10-23;2012-10-23;(multiplos);;;Petrobras;Petrobras
 0,9493221;1;0027_3D_CORURIPE;PSTM;Publico;0027_3D_CORURIPE;Exclusivo;Sismica 3D;2010-03-30;2010-05-12;2015-05-12;(multiplos);;;Petrobras;Petrobras
+0,6793899;1;0027_3D_BOA_ESPERANCA;PSTM;Publico;0027_3D_BOA_ESPERANCA;Exclusivo;Sismica 3D;2009-07-17;2009-08-31;2014-08-31;(multiplos);(multiplos);;Petrobras;Petrobras
+;;0027_3D_BOA_ESPERANCA_RM16;Field Data;Publico;0027_3D_BOA_ESPERANCA;Exclusivo;Sismica 3D;2009-07-17;2009-08-31;2014-08-31;(multiplos);(multiplos);;Petrobras;Petrobras
+1,300227669;1;0027_3D_BT-REC-57_PSTM;PSTM;Publico;0027_3D_BT-REC-57;Exclusivo;Sismica 3D;2008-08-20;2008-09-09;2013-09-09;REC-T-130;;Reconcavo;Petrobras;SHB
+;;0027_3D_BT-REC-57_RM14;Field Data;Publico;0027_3D_BT-REC-57;Exclusivo;Sismica 3D;2008-08-20;2008-09-09;2013-09-09;REC-T-130;;Reconcavo;Petrobras;SHB
 0,9493221;1;0027_3D_CORURIPE;PSTM;Publico;0027_3D_CORURIPE;Exclusivo;Sismica 3D;2010-03-30;2010-05-12;2015-05-12;(multiplos);;;Petrobras;Petrobras
 ;;0027_3D_CORURIPE;Field Data;Publico;0027_3D_CORURIPE;Exclusivo;Sismica 3D;2010-03-30;2010-05-12;2015-05-12;(multiplos);;;Petrobras;Petrobras
 3,6062934;1;0027_3D_ESTREITO_A_RODRIGUES;PSTM;Publico;0027_3D_ESTREITO_A_RODRIGUES;Exclusivo;Sismica 3D;2010-08-20;2011-08-08;2016-08-08;(multiplos);(multiplos);;Geokinetics;Petrobras
