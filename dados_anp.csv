@@ -199,87 +199,87 @@
 0.9750895,1,0026_FURADO,MIG FIN,Publico,0026_FURADO,Exclusivo,Sismica 3D,2001-04-20,2001-06-17,2006-06-17,FU,multiplos,Alagoas,Petrobras,Petrobras
 43.79162793,1,0026_FURADO_RM17,Field Data,Publico,0026_FURADO,Exclusivo,Sismica 3D,2001-04-20,2001-06-17,2006-06-17,FU,multiplos,Alagoas,Petrobras,Petrobras
 , ,0026_FURADO_RM14,Field Data,Publico,0026_FURADO,Exclusivo,Sismica 3D,2001-04-20,2001-06-17,2006-06-17,FU,multiplos,Alagoas,Petrobras,Petrobras
-0.8129195,1,0026_LORENA_RIO_APODI,MIG RAW,Publico,0026_LORENA_RIO_APODI,Exclusivo Pre-98,Sismica 3D,1995-09-12,1996-05-07, , , , ,Petrobras,
-, ,0026_LORENA_RIO_APODI,Field Data,Publico,0026_LORENA_RIO_APODI,Exclusivo Pre-98,Sismica 3D,1995-09-12,1996-05-07, , , , ,Petrobras,
+0.8129195,1,0026_LORENA_RIO_APODI,MIG RAW,Publico,0026_LORENA_RIO_APODI,Exclusivo Pre-98,Sismica 3D,1995-09-12,1996-05-07, , , ,Potiguar,Petrobras,
+, ,0026_LORENA_RIO_APODI,Field Data,Publico,0026_LORENA_RIO_APODI,Exclusivo Pre-98,Sismica 3D,1995-09-12,1996-05-07, , , ,Potiguar,Petrobras,
 0.3695253,1,0026_MATO_RICO,MIG FIN,Publico,0026_MATO_RICO,Exclusivo,Sismica 3D,1999-02-03,1999-05-08,2004-05-08,BPAR-10, ,Parana,Petrobras,3R Petroleum Off
 , ,0026_MATO_RICO,Field Data,Publico,0026_MATO_RICO,Exclusivo,Sismica 3D,1999-02-03,1999-05-08,2004-05-08,BPAR-10, ,Parana,Petrobras,3R Petroleum Off
-0.4490541,1,0026_MIRANGA,MIG FIN,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , , ,Petrobras,
-0.4490581,1,0026_MIRANGA,STK FIN,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , , ,Petrobras,
-, ,0026_MIRANGA,Field Data,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , , ,Petrobras,
+0.4490541,1,0026_MIRANGA,MIG FIN,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , ,Reconcavo,Petrobras,
+0.4490581,1,0026_MIRANGA,STK FIN,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , ,Reconcavo,Petrobras,
+, ,0026_MIRANGA,Field Data,Publico,0026_MIRANGA,Exclusivo Pre-98,Sismica 3D,1990-01-12,1991-03-13, , , ,Reconcavo,Petrobras,
 , ,0026_MUCURI_39,Field Data,Publico,0026_MUCURI_39,Exclusivo Pre-98,Sismica 2D,1978-01-06,1978-06-19, , , ,Mucuri,Petrobras,
-0.6347833,1,0026_N_AGUA_GRANDE,MIG FIN,Publico,0026_N_AGUA_GRANDE,Exclusivo,Sismica 3D,1998-09-20,1998-10-12,2003-10-12,multiplos,multiplos, ,Petrobras,Petrobras
-0.1339406,1,0026_NE_CANTO_AMARO,MIG FIN,Publico,0026_NE_CANTO_AMARO,Exclusivo Pre-98,Sismica 3D,1995-09-19,1995-12-31, , , , ,Petrobras,
-, ,0026_NE_CANTO_AMARO,Field Data,Publico,0026_NE_CANTO_AMARO,Exclusivo Pre-98,Sismica 3D,1995-09-19,1995-12-31, , , , ,Petrobras,
+0.6347833,1,0026_N_AGUA_GRANDE,MIG FIN,Publico,0026_N_AGUA_GRANDE,Exclusivo,Sismica 3D,1998-09-20,1998-10-12,2003-10-12,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+0.1339406,1,0026_NE_CANTO_AMARO,MIG FIN,Publico,0026_NE_CANTO_AMARO,Exclusivo Pre-98,Sismica 3D,1995-09-19,1995-12-31, , , ,Potiguar,Petrobras,
+, ,0026_NE_CANTO_AMARO,Field Data,Publico,0026_NE_CANTO_AMARO,Exclusivo Pre-98,Sismica 3D,1995-09-19,1995-12-31, , , ,Potiguar,Petrobras,
 52.42082312,1,0026_NORTE_RM17,Field Data,Publico,0026_NORTE,Exclusivo,Sismica 3D,2000-05-01,2000-09-10,2005-09-10,BCED, ,Espirito Santo,Petrobras,Petrobras
 , ,0026_NORTE,Field Data,Publico,0026_NORTE,Exclusivo,Sismica 3D,2000-05-01,2000-09-10,2005-09-10,BCED, ,Espirito Santo,Petrobras,Petrobras
 1.316391643,1,0026_NORTE_EXT_PSTM,PSTM,Publico,0026_NORTE_EXT,Exclusivo,Sismica 3D,2000-10-14,2000-11-04,2005-11-04,BCED,multiplos,Espirito Santo,Petrobras,Petrobras
 8.999879517,1,0026_NORTE_EXT_RM17,Field Data,Publico,0026_NORTE_EXT,Exclusivo,Sismica 3D,2000-10-14,2000-11-04,2005-11-04,BCED,multiplos,Espirito Santo,Petrobras,Petrobras
 0.9588853,1,0026_NORTE_TOTAL_3D,MIG FIN,Publico,0026_NORTE_TOTAL_3D,Exclusivo Pre-98,Sismica 3D, , , , , ,Espirito Santo,Petrobras,
 0.959312,1,0026_NORTE_TOTAL_3D,STK FIN,Publico,0026_NORTE_TOTAL_3D,Exclusivo Pre-98,Sismica 3D, , , , , ,Espirito Santo,Petrobras,
-0.065253,1,0026_POTIGUAR_39,MIG FIN,Publico,0026_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1996-01-05,1996-05-28, , , , ,Petrobras,
-, ,0026_POTIGUAR_39,Field Data,Publico,0026_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1996-01-05,1996-05-28, , , , ,Petrobras,
-0.054670169,1,0026_RECONCAVO_39,STK FIN,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , , ,Petrobras,
-4.0804178,1,0026_RECONCAVO_39,MIG FIN,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , , ,Petrobras,
-, ,0026_RECONCAVO_39,Field Data,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , , ,Petrobras,
-, ,0026_REDONDA_PONTA_DO_MEL,Field Data,Publico,0026_REDONDA_PONTA_DO_MEL,Exclusivo Pre-98,Sismica 3D,1995-08-11,1995-09-24, , , , ,Petrobras,
-1.4364194,1,0026_RIACHO_SAO_PEDRO_JACUIPE,MIG FIN,Publico,0026_RIACHO_SAO_PEDRO_JACUIPE,Exclusivo Pre-98,Sismica 3D,1997-05-09,1997-08-21, , , , ,Petrobras,
-, ,0026_RIACHO_SAO_PEDRO_JACUIPE,Field Data,Publico,0026_RIACHO_SAO_PEDRO_JACUIPE,Exclusivo Pre-98,Sismica 3D,1997-05-09,1997-08-21, , , , ,Petrobras,
-0.5898862,1,0026_RIO_FUNDO,MIG FIN,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , , ,Petrobras,
-0.6518569,1,0026_RIO_FUNDO,STK FIN,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , , ,Petrobras,
-, ,0026_RIO_FUNDO,Field Data,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , , ,Petrobras,
-0.2023013,1,0026_RIO_INHAMBUPE,MIG FIN,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , , ,Petrobras,
-0.2023013,1,0026_RIO_INHAMBUPE,STK FIN,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , , ,Petrobras,
-, ,0026_RIO_INHAMBUPE,Field Data,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , , ,Petrobras,
-0.0580248,1,0026_TAQUARI_VASSOURAS,STK FIN,Publico,0026_TAQUARI_VASSOURAS,Exclusivo Pre-98,Sismica 3D,1989-01-24,1989-01-26, , , ,multiplas,Petrobras,
-0.1146226,1,0026_TAQUARI_VASSOURAS,MIG FIN,Publico,0026_TAQUARI_VASSOURAS,Exclusivo Pre-98,Sismica 3D,1989-01-24,1989-01-26, , , ,multiplas,Petrobras,
+0.065253,1,0026_POTIGUAR_39,MIG FIN,Publico,0026_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1996-01-05,1996-05-28, , , ,Potiguar,Petrobras,
+, ,0026_POTIGUAR_39,Field Data,Publico,0026_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1996-01-05,1996-05-28, , , ,Potiguar,Petrobras,
+0.054670169,1,0026_RECONCAVO_39,STK FIN,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , ,Reconcavo,Petrobras,
+4.0804178,1,0026_RECONCAVO_39,MIG FIN,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , ,Reconcavo,Petrobras,
+, ,0026_RECONCAVO_39,Field Data,Publico,0026_RECONCAVO_39,Exclusivo Pre-98,Sismica 2D,1977-10-15,1978-03-06, , , ,Reconcavo,Petrobras,
+, ,0026_REDONDA_PONTA_DO_MEL,Field Data,Publico,0026_REDONDA_PONTA_DO_MEL,Exclusivo Pre-98,Sismica 3D,1995-08-11,1995-09-24, , , ,Potiguar,Petrobras,
+1.4364194,1,0026_RIACHO_SAO_PEDRO_JACUIPE,MIG FIN,Publico,0026_RIACHO_SAO_PEDRO_JACUIPE,Exclusivo Pre-98,Sismica 3D,1997-05-09,1997-08-21, , , ,Reconcavo,Petrobras,
+, ,0026_RIACHO_SAO_PEDRO_JACUIPE,Field Data,Publico,0026_RIACHO_SAO_PEDRO_JACUIPE,Exclusivo Pre-98,Sismica 3D,1997-05-09,1997-08-21, , , ,Reconcavo,Petrobras,
+0.5898862,1,0026_RIO_FUNDO,MIG FIN,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , ,Reconcavo,Petrobras,
+0.6518569,1,0026_RIO_FUNDO,STK FIN,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , ,Reconcavo,Petrobras,
+, ,0026_RIO_FUNDO,Field Data,Publico,0026_RIO_FUNDO,Exclusivo Pre-98,Sismica 3D,1994-05-13,1994-11-29, , , ,Reconcavo,Petrobras,
+0.2023013,1,0026_RIO_INHAMBUPE,MIG FIN,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , ,Reconcavo,Petrobras,
+0.2023013,1,0026_RIO_INHAMBUPE,STK FIN,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , ,Reconcavo,Petrobras,
+, ,0026_RIO_INHAMBUPE,Field Data,Publico,0026_RIO_INHAMBUPE,Exclusivo Pre-98,Sismica 3D,1997-04-08,1997-04-09, , , ,Reconcavo,Petrobras,
+0.0580248,1,0026_TAQUARI_VASSOURAS,STK FIN,Publico,0026_TAQUARI_VASSOURAS,Exclusivo Pre-98,Sismica 3D,1989-01-24,1989-01-26, , , ,Sergipe,Petrobras,
+0.1146226,1,0026_TAQUARI_VASSOURAS,MIG FIN,Publico,0026_TAQUARI_VASSOURAS,Exclusivo Pre-98,Sismica 3D,1989-01-24,1989-01-26, , , ,Sergipe,Petrobras,
 0.5159717,1,0026_TUCANO_CENTRAL_39,MIG FIN,Publico,0026_TUCANO_CENTRAL_39,Exclusivo Pre-98,Sismica 2D,1993-01-01,1993-01-30, , , ,Tucano Central,Petrobras,
 , ,0026_TUCANO_CENTRAL_39,Field Data,Publico,0026_TUCANO_CENTRAL_39,Exclusivo Pre-98,Sismica 2D,1993-01-01,1993-01-30, , , ,Tucano Central,Petrobras,
 0.0521484,1,0026_TUCANO_SUL_39,STK FIN,Publico,0026_TUCANO_SUL_39,Exclusivo Pre-98,Sismica 2D,1983-07-29,1992-10-06, , , ,Tucano Sul,Petrobras,
 1.1401512,1,0026_TUCANO_SUL_39,MIG FIN,Publico,0026_TUCANO_SUL_39,Exclusivo Pre-98,Sismica 2D,1983-07-29,1992-10-06, , , ,Tucano Sul,Petrobras,
 , ,0026_TUCANO_SUL_39,Field Data,Publico,0026_TUCANO_SUL_39,Exclusivo Pre-98,Sismica 2D,1983-07-29,1992-10-06, , , ,Tucano Sul,Petrobras,
-0.6793899,1,0027_3D_BOA_ESPERANCA,PSTM,Publico,0027_3D_BOA_ESPERANCA,Exclusivo,Sismica 3D,2009-07-17,2009-08-31,2014-08-31,multiplos,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_BOA_ESPERANCA_RM16,Field Data,Publico,0027_3D_BOA_ESPERANCA,Exclusivo,Sismica 3D,2009-07-17,2009-08-31,2014-08-31,multiplos,multiplos, ,Petrobras,Petrobras
+0.6793899,1,0027_3D_BOA_ESPERANCA,PSTM,Publico,0027_3D_BOA_ESPERANCA,Exclusivo,Sismica 3D,2009-07-17,2009-08-31,2014-08-31,multiplos,multiplos,Potiguar,Petrobras,Petrobras
+, ,0027_3D_BOA_ESPERANCA_RM16,Field Data,Publico,0027_3D_BOA_ESPERANCA,Exclusivo,Sismica 3D,2009-07-17,2009-08-31,2014-08-31,multiplos,multiplos,Potiguar,Petrobras,Petrobras
 1.300227669,1,0027_3D_BT-REC-57_PSTM,PSTM,Publico,0027_3D_BT-REC-57,Exclusivo,Sismica 3D,2008-08-20,2008-09-09,2013-09-09,REC-T-130, ,Reconcavo,Petrobras,SHB
 , ,0027_3D_BT-REC-57_RM14,Field Data,Publico,0027_3D_BT-REC-57,Exclusivo,Sismica 3D,2008-08-20,2008-09-09,2013-09-09,REC-T-130, ,Reconcavo,Petrobras,SHB
-2.5829659,1,0027_3D_BURACICA_SUL,PSTM,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos, ,Petrobras,Petrobras
-139.1103339,1.391103339,0027_3D_BURACICA_SUL_RM17,Field Data,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_BURACICA_SUL_RM14,Field Data,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos, ,Petrobras,Petrobras
-4.9978583,1,0027_3D_CAPIANGA,PSTM,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, , ,Petrobras,Petrobras
-198.3804639,1.983804639,0027_3D_CAPIANGA_RM17,Field Data,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, , ,Petrobras,Petrobras
-, ,0027_3D_CAPIANGA_RM14,Field Data,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, , ,Petrobras,Petrobras
-0.9493221,1,0027_3D_CORURIPE,PSTM,Publico,0027_3D_CORURIPE,Exclusivo,Sismica 3D,2010-03-30,2010-05-12,2015-05-12,multiplos, , ,Petrobras,Petrobras
-, ,0027_3D_CORURIPE,Field Data,Publico,0027_3D_CORURIPE,Exclusivo,Sismica 3D,2010-03-30,2010-05-12,2015-05-12,multiplos, , ,Petrobras,Petrobras
-3.6062934,1,0027_3D_ESTREITO_A_RODRIGUES,PSTM,Publico,0027_3D_ESTREITO_A_RODRIGUES,Exclusivo,Sismica 3D,2010-08-20,2011-08-08,2016-08-08,multiplos,multiplos, ,Geokinetics,Petrobras
-, ,0027_3D_ESTREITO_A_RODRIGUES,Field Data,Publico,0027_3D_ESTREITO_A_RODRIGUES,Exclusivo,Sismica 3D,2010-08-20,2011-08-08,2016-08-08,multiplos,multiplos, ,Geokinetics,Petrobras
-1.9043224,1,0027_3D_FAV_RI_RBU,PSTM,Publico,0027_3D_FAV_RI_RBU,Exclusivo,Sismica 3D,2008-02-17,2008-04-09,2013-04-09, ,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_FAV_RI_RBU,Field Data,Publico,0027_3D_FAV_RI_RBU,Exclusivo,Sismica 3D,2008-02-17,2008-04-09,2013-04-09, ,multiplos, ,Petrobras,Petrobras
+2.5829659,1,0027_3D_BURACICA_SUL,PSTM,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+139.1103339,1.391103339,0027_3D_BURACICA_SUL_RM17,Field Data,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_BURACICA_SUL_RM14,Field Data,Publico,0027_3D_BURACICA_SUL,Exclusivo,Sismica 3D,2007-04-01,2007-07-04,2012-07-05,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+4.9978583,1,0027_3D_CAPIANGA,PSTM,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, ,Reconcavo,Petrobras,Petrobras
+198.3804639,1.983804639,0027_3D_CAPIANGA_RM17,Field Data,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, ,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_CAPIANGA_RM14,Field Data,Publico,0027_3D_CAPIANGA,Exclusivo,Sismica 3D,2007-06-20,2007-10-23,2012-10-23,multiplos, ,Reconcavo,Petrobras,Petrobras
+0.9493221,1,0027_3D_CORURIPE,PSTM,Publico,0027_3D_CORURIPE,Exclusivo,Sismica 3D,2010-03-30,2010-05-12,2015-05-12,multiplos, ,Alagoas,Petrobras,Petrobras
+, ,0027_3D_CORURIPE,Field Data,Publico,0027_3D_CORURIPE,Exclusivo,Sismica 3D,2010-03-30,2010-05-12,2015-05-12,multiplos, ,Alagoas,Petrobras,Petrobras
+3.6062934,1,0027_3D_ESTREITO_A_RODRIGUES,PSTM,Publico,0027_3D_ESTREITO_A_RODRIGUES,Exclusivo,Sismica 3D,2010-08-20,2011-08-08,2016-08-08,multiplos,multiplos,Potiguar,Geokinetics,Petrobras
+, ,0027_3D_ESTREITO_A_RODRIGUES,Field Data,Publico,0027_3D_ESTREITO_A_RODRIGUES,Exclusivo,Sismica 3D,2010-08-20,2011-08-08,2016-08-08,multiplos,multiplos,Potiguar,Geokinetics,Petrobras
+1.9043224,1,0027_3D_FAV_RI_RBU,PSTM,Publico,0027_3D_FAV_RI_RBU,Exclusivo,Sismica 3D,2008-02-17,2008-04-09,2013-04-09, ,multiplos,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_FAV_RI_RBU,Field Data,Publico,0027_3D_FAV_RI_RBU,Exclusivo,Sismica 3D,2008-02-17,2008-04-09,2013-04-09, ,multiplos,Reconcavo,Petrobras,Petrobras
 1.8865717,1,0027_3D_FAZ_SAO_RAFAEL,PSTM,Publico,0027_3D_FAZ_SAO_RAFAEL,Exclusivo,Sismica 3D,2008-09-24,2008-10-14,2013-10-15,BT-ES-15,FAZENDA SaO RAFAEL,Espirito Santo,Petrobras,Petrobras
 58.67642383,1,0027_3D_FAZ_SAO_RAFAEL_RM17,Field Data,Publico,0027_3D_FAZ_SAO_RAFAEL,Exclusivo,Sismica 3D,2008-09-24,2008-10-14,2013-10-15,BT-ES-15,FAZENDA SaO RAFAEL,Espirito Santo,Petrobras,Petrobras
 , ,0027_3D_FAZ_SAO_RAFAEL_RM14,Field Data,Publico,0027_3D_FAZ_SAO_RAFAEL,Exclusivo,Sismica 3D,2008-09-24,2008-10-14,2013-10-15,BT-ES-15,FAZENDA SaO RAFAEL,Espirito Santo,Petrobras,Petrobras
-1.3507845,1,0027_3D_FAZENDA_BELEM,PSTM,Publico,0027_3D_FAZENDA_BELEM,Exclusivo,Sismica 3D,2010-05-18,2010-08-19,2015-08-19, ,FAZENDA BELeM, ,Petrobras,Petrobras
-, ,0027_3D_FAZENDA_BELEM,Field Data,Publico,0027_3D_FAZENDA_BELEM,Exclusivo,Sismica 3D,2010-05-18,2010-08-19,2015-08-19, ,FAZENDA BELeM, ,Petrobras,Petrobras
-0.4179889,1,0027_3D_NE_DE_SOLEDADE,PSTM,Publico,0027_3D_NE_DE_SOLEDADE,Exclusivo,Sismica 3D,2011-02-15,2011-04-17,2016-04-17,multiplos, , ,Geokinetics,Petrobras
-, ,0027_3D_NE_DE_SOLEDADE,Field Data,Publico,0027_3D_NE_DE_SOLEDADE,Exclusivo,Sismica 3D,2011-02-15,2011-04-17,2016-04-17,multiplos, , ,Geokinetics,Petrobras
-0.521839,1,0027_3D_NW_DE_MORRO_ROSADO,PSTM,Publico,0027_3D_NW_DE_MORRO_ROSADO,Exclusivo,Sismica 3D,2008-10-24,2008-12-04,2013-12-04, ,NOROESTE DO MORRO ROSADO, ,Petrobras,Petrobras
-65.24490459,1,0027_3D_NW_DE_MORRO_ROSADO_RM16,Field Data,Publico,0027_3D_NW_DE_MORRO_ROSADO,Exclusivo,Sismica 3D,2008-10-24,2008-12-04,2013-12-04, ,NOROESTE DO MORRO ROSADO, ,Petrobras,Petrobras
-0.5738081,1,0027_3D_OESTE_SAO_MANOEL_II,PSTM,Publico,0027_3D_OESTE_SAO_MANOEL_II,Exclusivo,Sismica 3D,2010-11-21,2010-12-27,2015-12-27,multiplos, , ,Petrobras,Petrobras
-, ,0027_3D_OESTE_SAO_MANOEL_II,Field Data,Publico,0027_3D_OESTE_SAO_MANOEL_II,Exclusivo,Sismica 3D,2010-11-21,2010-12-27,2015-12-27,multiplos, , ,Petrobras,Petrobras
-0.4742857,1,0027_3D_PEDRINHAS,PSTM,Publico,0027_3D_PEDRINHAS,Exclusivo,Sismica 3D,2007-02-20,2007-04-02,2012-04-02,multiplos,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_PEDRINHAS_RM14,Field Data,Publico,0027_3D_PEDRINHAS,Exclusivo,Sismica 3D,2007-02-20,2007-04-02,2012-04-02,multiplos,multiplos, ,Petrobras,Petrobras
-5.0148673,1.00297346,0027_3D_POLO_MIRANGA,PSTM,Publico,0027_3D_POLO_MIRANGA,Exclusivo,Sismica 3D,2008-04-15,2008-09-16,2013-09-16, ,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_POLO_MIRANGA,Field Data,Publico,0027_3D_POLO_MIRANGA,Exclusivo,Sismica 3D,2008-04-15,2008-09-16,2013-09-16, ,multiplos, ,Petrobras,Petrobras
-0.4537879,1,0027_3D_PORTOCARAO-LAGOAROEIRA,PSTM,Publico,0027_3D_PORTOCARAO-LAGOAROEIRA,Exclusivo,Sismica 3D,2009-03-01,2009-03-22,2014-03-22,multiplos,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_PORTOCARAO-LAGOAROEIRA,Field Data,Publico,0027_3D_PORTOCARAO-LAGOAROEIRA,Exclusivo,Sismica 3D,2009-03-01,2009-03-22,2014-03-22,multiplos,multiplos, ,Petrobras,Petrobras
+1.3507845,1,0027_3D_FAZENDA_BELEM,PSTM,Publico,0027_3D_FAZENDA_BELEM,Exclusivo,Sismica 3D,2010-05-18,2010-08-19,2015-08-19, ,FAZENDA BELeM,Potiguar,Petrobras,Petrobras
+, ,0027_3D_FAZENDA_BELEM,Field Data,Publico,0027_3D_FAZENDA_BELEM,Exclusivo,Sismica 3D,2010-05-18,2010-08-19,2015-08-19, ,FAZENDA BELeM,Potiguar,Petrobras,Petrobras
+0.4179889,1,0027_3D_NE_DE_SOLEDADE,PSTM,Publico,0027_3D_NE_DE_SOLEDADE,Exclusivo,Sismica 3D,2011-02-15,2011-04-17,2016-04-17,multiplos, ,Potiguar,Geokinetics,Petrobras
+, ,0027_3D_NE_DE_SOLEDADE,Field Data,Publico,0027_3D_NE_DE_SOLEDADE,Exclusivo,Sismica 3D,2011-02-15,2011-04-17,2016-04-17,multiplos, ,Potiguar,Geokinetics,Petrobras
+0.521839,1,0027_3D_NW_DE_MORRO_ROSADO,PSTM,Publico,0027_3D_NW_DE_MORRO_ROSADO,Exclusivo,Sismica 3D,2008-10-24,2008-12-04,2013-12-04, ,NOROESTE DO MORRO ROSADO,Potiguar,Petrobras,Petrobras
+65.24490459,1,0027_3D_NW_DE_MORRO_ROSADO_RM16,Field Data,Publico,0027_3D_NW_DE_MORRO_ROSADO,Exclusivo,Sismica 3D,2008-10-24,2008-12-04,2013-12-04, ,NOROESTE DO MORRO ROSADO,Potiguar,Petrobras,Petrobras
+0.5738081,1,0027_3D_OESTE_SAO_MANOEL_II,PSTM,Publico,0027_3D_OESTE_SAO_MANOEL_II,Exclusivo,Sismica 3D,2010-11-21,2010-12-27,2015-12-27,multiplos, ,Potiguar,Petrobras,Petrobras
+, ,0027_3D_OESTE_SAO_MANOEL_II,Field Data,Publico,0027_3D_OESTE_SAO_MANOEL_II,Exclusivo,Sismica 3D,2010-11-21,2010-12-27,2015-12-27,multiplos, ,Potiguar,Petrobras,Petrobras
+0.4742857,1,0027_3D_PEDRINHAS,PSTM,Publico,0027_3D_PEDRINHAS,Exclusivo,Sismica 3D,2007-02-20,2007-04-02,2012-04-02,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_PEDRINHAS_RM14,Field Data,Publico,0027_3D_PEDRINHAS,Exclusivo,Sismica 3D,2007-02-20,2007-04-02,2012-04-02,multiplos,multiplos,Reconcavo,Petrobras,Petrobras
+5.0148673,1.00297346,0027_3D_POLO_MIRANGA,PSTM,Publico,0027_3D_POLO_MIRANGA,Exclusivo,Sismica 3D,2008-04-15,2008-09-16,2013-09-16, ,multiplos,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_POLO_MIRANGA,Field Data,Publico,0027_3D_POLO_MIRANGA,Exclusivo,Sismica 3D,2008-04-15,2008-09-16,2013-09-16, ,multiplos,Reconcavo,Petrobras,Petrobras
+0.4537879,1,0027_3D_PORTOCARAO-LAGOAROEIRA,PSTM,Publico,0027_3D_PORTOCARAO-LAGOAROEIRA,Exclusivo,Sismica 3D,2009-03-01,2009-03-22,2014-03-22,multiplos,multiplos,Potiguar,Petrobras,Petrobras
+, ,0027_3D_PORTOCARAO-LAGOAROEIRA,Field Data,Publico,0027_3D_PORTOCARAO-LAGOAROEIRA,Exclusivo,Sismica 3D,2009-03-01,2009-03-22,2014-03-22,multiplos,multiplos,Potiguar,Petrobras,Petrobras
 0.8966257,1,0027_3D_RIO_DO_PEIXE,POST-STM,Publico,0027_3D_RIO_DO_PEIXE,Exclusivo,Sismica 3D,2009-03-28,2009-07-12,2014-07-12,RIOP-T-41, ,Rio do Peixe,Petrobras,Petrobras
 , ,0027_3D_RIO_DO_PEIXE_RM16,Field Data,Publico,0027_3D_RIO_DO_PEIXE,Exclusivo,Sismica 3D,2009-03-28,2009-07-12,2014-07-12,RIOP-T-41, ,Rio do Peixe,Petrobras,Petrobras
-3.4713011,1,0027_3D_RIO_POJUCA,PSTM,Publico,0027_3D_RIO_POJUCA,Exclusivo,Sismica 3D,2007-10-29,2008-01-31,2013-01-31,multiplos,multiplos, ,Grant,Petrobras
-181.0086328,1.810086328,0027_3D_RIO_POJUCA_RM16,Field Data,Publico,0027_3D_RIO_POJUCA,Exclusivo,Sismica 3D,2007-10-29,2008-01-31,2013-01-31,multiplos,multiplos, ,Grant,Petrobras
+3.4713011,1,0027_3D_RIO_POJUCA,PSTM,Publico,0027_3D_RIO_POJUCA,Exclusivo,Sismica 3D,2007-10-29,2008-01-31,2013-01-31,multiplos,multiplos,Reconcavo,Grant,Petrobras
+181.0086328,1.810086328,0027_3D_RIO_POJUCA_RM16,Field Data,Publico,0027_3D_RIO_POJUCA,Exclusivo,Sismica 3D,2007-10-29,2008-01-31,2013-01-31,multiplos,multiplos,Reconcavo,Grant,Petrobras
 2.0909257,1,0027_3D_SAO_MIGUEL_DO_PAJEU,PSTM,Publico,0027_3D_SAO_MIGUEL_DO_PAJEU,Exclusivo,Sismica 3D,2008-12-07,2009-02-16,2014-02-13,POT-T-514,multiplos,Potiguar,Petrobras,Petrobras
 , ,0027_3D_SAO_MIGUEL_DO_PAJEU,Field Data,Publico,0027_3D_SAO_MIGUEL_DO_PAJEU,Exclusivo,Sismica 3D,2008-12-07,2009-02-16,2014-02-13,POT-T-514,multiplos,Potiguar,Petrobras,Petrobras
-2.4895321,1,0027_3D_TAQUIPE_SUL,PSTM,Publico,0027_3D_TAQUIPE_SUL,Exclusivo,Sismica 3D,2009-09-10,2009-10-26,2014-10-26, ,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_TAQUIPE_SUL,Field Data,Publico,0027_3D_TAQUIPE_SUL,Exclusivo,Sismica 3D,2009-09-10,2009-10-26,2014-10-26, ,multiplos, ,Petrobras,Petrobras
-1.9639601,1,0027_3D_UPANEMA,PSTM,Publico,0027_3D_UPANEMA,Exclusivo,Sismica 3D,2009-11-10,2010-03-10,2015-03-10,multiplos,multiplos, ,Petrobras,Petrobras
-, ,0027_3D_UPANEMA,Field Data,Publico,0027_3D_UPANEMA,Exclusivo,Sismica 3D,2009-11-10,2010-03-10,2015-03-10,multiplos,multiplos, ,Petrobras,Petrobras
+2.4895321,1,0027_3D_TAQUIPE_SUL,PSTM,Publico,0027_3D_TAQUIPE_SUL,Exclusivo,Sismica 3D,2009-09-10,2009-10-26,2014-10-26, ,multiplos,Reconcavo,Petrobras,Petrobras
+, ,0027_3D_TAQUIPE_SUL,Field Data,Publico,0027_3D_TAQUIPE_SUL,Exclusivo,Sismica 3D,2009-09-10,2009-10-26,2014-10-26, ,multiplos,Reconcavo,Petrobras,Petrobras
+1.9639601,1,0027_3D_UPANEMA,PSTM,Publico,0027_3D_UPANEMA,Exclusivo,Sismica 3D,2009-11-10,2010-03-10,2015-03-10,multiplos,multiplos,Potiguar,Petrobras,Petrobras
+, ,0027_3D_UPANEMA,Field Data,Publico,0027_3D_UPANEMA,Exclusivo,Sismica 3D,2009-11-10,2010-03-10,2015-03-10,multiplos,multiplos,Potiguar,Petrobras,Petrobras
 0.0076318,1,0027_BARRA_BONITA_51_PSTM_FOMENTO,PSTM,Publico,0027_BARRA_BONITA_51,Exclusivo Pre-98,Sismica 2D,1996-01-07,1996-07-21, , , ,Parana,Petrobras,
 0.0076318,1,0027_BARRA_BONITA_51_POSTSTM_FOMENTO,POST-STM,Publico,0027_BARRA_BONITA_51,Exclusivo Pre-98,Sismica 2D,1996-01-07,1996-07-21, , , ,Parana,Petrobras,
 , ,0027_BARRA_BONITA_51_FOMENTO_FLAMOIL,Field Data,Publico,0027_BARRA_BONITA_51,Exclusivo Pre-98,Sismica 2D,1996-01-07,1996-07-21, , , ,Parana,Petrobras,
@@ -294,12 +294,12 @@
 0.3790687,1,0027_PILAR,MIG RAW,Publico,0027_PILAR,Exclusivo Pre-98,Sismica 3D,1994-01-05,1994-01-06, , , ,multiplas,Petrobras,
 0.3798565,1,0027_PILAR,STK FIN,Publico,0027_PILAR,Exclusivo Pre-98,Sismica 3D,1994-01-05,1994-01-06, , , ,multiplas,Petrobras,
 , ,0027_PILAR,Field Data,Publico,0027_PILAR,Exclusivo Pre-98,Sismica 3D,1994-01-05,1994-01-06, , , ,multiplas,Petrobras,
-0.0106729,1,0027_POTIGUAR_33,MIG FIN,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , , ,Petrobras,
-0.0106729,1,0027_POTIGUAR_33,STK FIN,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , , ,Petrobras,
-, ,0027_POTIGUAR_33,Field Data,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , , ,Petrobras,
-0.10150531,1,0027_POTIGUAR_39,STK FIN,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , , ,Petrobras,
-0.1116272,1,0027_POTIGUAR_39,MIG FIN,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , , ,Petrobras,
-, ,0027_POTIGUAR_39,Field Data,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , , ,Petrobras,
+0.0106729,1,0027_POTIGUAR_33,MIG FIN,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , ,Potiguar,Petrobras,
+0.0106729,1,0027_POTIGUAR_33,STK FIN,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , ,Potiguar,Petrobras,
+, ,0027_POTIGUAR_33,Field Data,Publico,0027_POTIGUAR_33,Exclusivo Pre-98,Sismica 2D,1976-08-14,1976-08-18, , , ,Potiguar,Petrobras,
+0.10150531,1,0027_POTIGUAR_39,STK FIN,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , ,Potiguar,Petrobras,
+0.1116272,1,0027_POTIGUAR_39,MIG FIN,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , ,Potiguar,Petrobras,
+, ,0027_POTIGUAR_39,Field Data,Publico,0027_POTIGUAR_39,Exclusivo Pre-98,Sismica 2D,1974-11-10,1976-09-16, , , ,Potiguar,Petrobras,
 0.67832,1,0027_RIACHO_QUIRINO,MIG FIN,Publico,0027_RIACHO_QUIRINO,Exclusivo,Sismica 3D,1998-01-11,1998-02-13,2003-02-13,multiplos,FAZENDA AZEVEDO,Reconcavo,Petrobras,Petrobras
 , ,0027_RIACHO_QUIRINO,Field Data,Publico,0027_RIACHO_QUIRINO,Exclusivo,Sismica 3D,1998-01-11,1998-02-13,2003-02-13,multiplos,FAZENDA AZEVEDO,Reconcavo,Petrobras,Petrobras
 0.0556523,1,0027_SAO_FRANCISCO_45,MIG FIN,Publico,0027_SAO_FRANCISCO_45,Exclusivo Pre-98,Sismica 2D,1997-01-06,1997-06-28, , , ,Sao Francisco,Petrobras,
